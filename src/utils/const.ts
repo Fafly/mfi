@@ -1,0 +1,7 @@
+export const API_KEY = import.meta.env.VITE_API_KEY;
+export const BREST_COORDINATE = [-4.5024793590000005, 48.400345079];
+export const PARIS_COORDINATE = [2.336419316, 48.862549876];
+export const TOULOUSE_COORDINATE = [1.432094901, 43.596037953];
+export const FRANCE_COORDINATE = [1.8883335, 46.603354];
+export const DEFAULT_ZOOM = 5.85;
+export const CITY_ZOOM = 11.5;

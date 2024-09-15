@@ -1,0 +1,17 @@
+.containerForm {
+    justify-content: space-between;
+    align-items: flex-end;
+
+    @media (max-width: 36em) {
+        align-items: center;
+        flex-direction: column;
+    }
+}
+
+.input {
+    width: 70%;
+
+    @media (max-width: 36em) {
+        width: 100%;
+    }
+}
