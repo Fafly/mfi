@@ -12,8 +12,8 @@ Pouvoir rechercher ces villes pour les afficher / zoomer rapidement sur la carte
 
 Lors du clic sur l'emplacement d'une de ces villes afficher la température des 3 prochains jours (utiliser la valeur "daily>temp>day" fournie par l'API proposée ci-dessous)
 
-Pour récupérer des prévisions météorologiques en temps réel vous pouvez utiliser cette API.
-API doc https://openweathermap.org/api/one-call-api
+Pour récupérer des prévisions météorologiques en temps réel vous pouvez utiliser cette API.  
+API doc https://openweathermap.org/api/one-call-api  
 NB : L'API est limité à 1000 appels / jour si vous rencontrez la limite n'hésitez pas à vous créer votre propre API key https://openweathermap.org/faq
 
 
